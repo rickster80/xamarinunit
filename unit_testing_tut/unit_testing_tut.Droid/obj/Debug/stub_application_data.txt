@@ -1,2 +1,0 @@
-android.app.Application
-unit_testing_tut.Droid
